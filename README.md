@@ -20,11 +20,11 @@ Cobol Re-engineering. Calculate a 10-digit and 13-digit ISBN to see if they are 
 ## Assignment 4
 Calclating e to n amount of digits. Algorithm provided by Sale, recode algorithm in Python, C, F95, ADA.
 ### How to Run ###
-FORTRAN
+#### FORTRAN
 > gfortran -Wall calce.f95
-ADA
+#### ADA
 > gnatmake -Wall calce.adb
-C
+#### C
 > gcc -std=c99 -lm -Wall calce.c
-PYTHON
+#### PYTHON
 > python3 calce.py
