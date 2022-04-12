@@ -1,0 +1,10 @@
+1856266532     correct and valid
+0864500572     correct and valid with leading zero
+0201314525     correct and valid with leading zero
+159486781X     correct and valid with trailing uppercase X
+159486781x     correct and valid with trailing lowercase X
+0743287290     correct and valid with leading and trailing zero
+081185213X     correct and valid with leading zero, trailing X
+1B56266532     incorrect, contains a non-digit
+159486781Z     incorrect, contains a non-digit/X in check digit
+1856266537     correct but not valid (invalid check)
